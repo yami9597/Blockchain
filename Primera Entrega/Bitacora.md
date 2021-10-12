@@ -1,7 +1,7 @@
 # Bitácora 📌📃
 
 ## Primera reunión 01/10/21
--Se tomó el acuerdo de utilizar la tecnología Blockchain para nuestro proyecto, pero quedó pendiente el enfoque al que nos vamos a enfocar.
+-Se tomó el acuerdo de utilizar la tecnología Blockchain para nuestro proyecto, pero quedó pendiente el enfoque que le vamos a dar.
 ## Segunda reunión 05/10/21
 -Se llegó al acuerdo de que como no tenemos mucho conocimiento técnico sobre la tecnología Blockchain, haríamos una página web que informe sobre los usos que podría tener esta tecnología para el combate de la corrupción y evasión de impuestos.
 -Se definió que el objetivo sería “Dar a conocer los usos y utilidades que existen en la tecnología Blockchain mediante una página web interactiva e informativa acerca de las aplicaciones del sistema de bloques.”
