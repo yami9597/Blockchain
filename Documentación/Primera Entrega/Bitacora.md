@@ -23,3 +23,13 @@
 -Definimos que utilizaríamos la metodología scrum y se definió a Juan Carlos Ceballos como el Scrum Master, a Ezequiel Chan como el Product Owner y a Carlos Calderón, Yamily Itza, Jean Buenfil y Miguel Castillo como el Team Developer.
 
 -Quedó pendiente preguntarle al maestro José Luis para la siguiente reunión la aplicación correcta de la metodología Scrum en el proyecto.
+
+## Quinta reunión(segunda con el maestro) 13/10/21
+-Preguntamos nuestras dudas al maestro sobre la metodología Scrum, lo cual nos dio una visión más clara sobre lo que tenemos que hacer.
+
+-Definimos Trello como herramienta de gestión de trabajo y a Slack como herramienta de comunicación.
+
+-Quedó pendiente ver entre todo el equipo los requerimientos utilizando las historias de usuario.
+
+
+
