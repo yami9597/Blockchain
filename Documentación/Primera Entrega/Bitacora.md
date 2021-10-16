@@ -31,5 +31,12 @@
 
 -Quedó pendiente ver entre todo el equipo los requerimientos utilizando las historias de usuario.
 
+## Sexta reunión 15/10/21
+-Definimos las tres historias de usuario que usaremos para este sprint.
+
+-Quedó pendiente que Ezequiel termine los requerimientos funcionales y no funcionales para el Lunes.
+
+-Quedó pendiente utilizar las historias de usuario para empezar a hacer el guión del video.
+
 
 
