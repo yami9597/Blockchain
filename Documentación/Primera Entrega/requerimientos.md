@@ -1,4 +1,4 @@
-##HISTORIAS DE USUARIO/REQUERIMIENTOS
+## HISTORIAS DE USUARIO/REQUERIMIENTOS
 Para los requerimientos utilizamos las historias de uso, pero nos parece adecuado identificar en qué historias están los requerimientos funcionales y no funcionales:
 ### #Método de prioridad:
 
