@@ -3,3 +3,8 @@ Para la métrica las tareas fueron valoradas numericamente del 1 al 3, siendo 1 
 
 
 ![Screenshot_20211014-180956_Office](https://user-images.githubusercontent.com/92338579/137407622-386a44a0-028e-4146-bce9-c8d86d4dd9a2.jpg)
+
+
+
+# Porcentaje de contribución individual
+![Tabla de contribuccion individual](https://user-images.githubusercontent.com/92878301/138206159-c71a4acf-d3c0-4696-ae47-d7599c5bd137.png)
